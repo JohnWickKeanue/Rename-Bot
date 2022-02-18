@@ -9,6 +9,8 @@ hachoir
 mutagen
 psutil
 aiofiles
-
+requests
+bs4
+urllib3
 
 
