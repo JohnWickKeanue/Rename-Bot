@@ -1,6 +1,7 @@
 import time
 import os
-from bs4 import BeautifulSoup
+from bot.client import BeautifulSoup
+
 from urllib.parse import urlparse
 
 
