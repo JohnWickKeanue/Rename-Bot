@@ -11,5 +11,5 @@ psutil
 aiofiles
 requests
 bs4
-parser-library
+parser
 
