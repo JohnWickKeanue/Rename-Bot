@@ -11,3 +11,5 @@ psutil
 aiofiles
 requests
 bs4
+urllib.parse
+urlparse
